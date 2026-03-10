@@ -1,29 +1,64 @@
-## 👋 About Me
+<!-- HEADER ANIMATION -->
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hello+there+%F0%9F%91%8B;I'm+an+IT+Student;Fullstack+Developer+(Near+Goal);Cybersecurity+%26+AI+Engineer+(Long+Term)" />
+</h1>
 
-I'm an IT student focusing on becoming a Fullstack Developer.
-Currently learning and building web applications using modern backend and frontend technologies.
+<p align="center">
+Building web applications today • Moving toward Cybersecurity & AI tomorrow
+</p>
 
-My long-term goal is to transition into Cybersecurity and AI,
-especially in areas related to cybercrime investigation, digital forensics, and threat intelligence.
+---
 
-## 🚀 Current Focus
-- Fullstack Web Development
-- Backend systems and databases
-- Building real-world projects
+## 👨‍💻 About Me
 
-## 🔒 Future Direction
-- Cybersecurity
-- Ethical Hacking
-- Digital Forensics
-- AI for threat detection and cybercrime investigation
+💻 IT student focused on becoming a **Fullstack Developer**  
 
-## 🛠 Tech I'm Learning
-- Java / Spring / Web MVC
-- SQL & Database Design
-- Web Development (Frontend + Backend)
+🔭 Currently building **real-world web applications**  
 
-## 📌 Interests
-- Cybercrime investigation
-- Security research
-- AI applications in cybersecurity
-- Building tools that help detect or analyze cyber threats
+🎯 Long-term goal: move into **Cybersecurity + AI**
+
+
+<details>
+<summary>🚀 More about my learning journey</summary>
+
+<br>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+<details>
+<summary>🚀 More about my learning journey</summary>
+
+<br>
+
+## 🔐 Current Focus
+
+- Fullstack Web Development  
+- Backend systems and databases  
+- Building real-world projects  
+
+---
+
+## 🚀 Future Direction
+
+- Cybersecurity  
+- Ethical Hacking  
+- Digital Forensics  
+- AI for threat detection  
+
+---
+
+## 📡 Cybersecurity Interests
+
+- Cybercrime investigation  
+- Security research  
+- AI applications in cybersecurity  
+- Building tools to detect cyber threats  
+
+</details>
